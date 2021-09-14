@@ -1,3 +1,4 @@
 (library
  (name optint)
+ (ocamlopt_flags -O3)
  (public_name optint))
