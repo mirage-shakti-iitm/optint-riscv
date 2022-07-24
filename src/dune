@@ -1,4 +1,4 @@
 (library
  (name optint)
- (ocamlopt_flags (-default-compartment-id 1 -function-sections))
+ (ocamlopt_flags (-default-compartment-id 43 -function-sections))
  (public_name optint))
